@@ -34,7 +34,7 @@ li {
   background-image: url(https://stmed.net/sites/default/files/black-hole-wallpapers-30821-3668280.jpg);
   background-size: cover;
   background-position: bottom center;
-  height: 700px;
+  height: 800px;
   width: 100%;
 }
 
@@ -63,7 +63,7 @@ h2 {
 }
 
 h3 {
-  color: #D7263D;
+  color: #2A4794;
   font-size: 26px;
   font-weight: 700;
   padding: 20px 10%;
