@@ -10,7 +10,7 @@
     </script>
   </head>
  <body>
- <p id="mypara"> this is bogus</p>
- <button type="button" onclick="funcClick()">Clicke Me</button>
+ <p id="mypara"> This is Javascript, right?</p>
+ <button type="button" onclick="funcClick()">Click Me</button>
  </head>
  </html>
