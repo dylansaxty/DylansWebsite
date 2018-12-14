@@ -5,7 +5,7 @@
   <script type = "text/javascript">
     function funcClick() {
       var x = document.getElementById("myPara");
-      x.innerHTML = "hello Niggas!";
+      x.innerHTML = "Hey there sexy!!";
       }
     </script>
   </head>
