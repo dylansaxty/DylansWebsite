@@ -26,7 +26,11 @@
   <video src="https://www.youtube.com/embed/8wLwxmjrZj8" type="video/mp4" controls width="500px" height="auto" autobuffer>
   </video>
   
-
+var c = document.getElementById("myCanvas");
+var ctx = c.getContext("2d");
+ctx.beginPath();
+ctx.arc(95, 50, 40, 0, 2 * Math.PI);
+ctx.stroke();
   
   <div class="content">
     <h3> Welcome to the world's most advanced, state of the art website. Enjoy your visit!</h3>
@@ -68,11 +72,7 @@
   <rect width="400" height="50" style="fill:rgb(0,0,255);stroke-width:10;stroke:rgb(0,0,0)" />
 </svg>
     
-var c = document.getElementById("myCanvas");
-var ctx = c.getContext("2d");
-ctx.beginPath();
-ctx.arc(95, 50, 40, 0, 2 * Math.PI);
-ctx.stroke();
+
     
   </body>
 </html>
